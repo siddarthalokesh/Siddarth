@@ -1,15 +1,15 @@
 <div align="center">
 
-# Hi, I'm Siddh
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=26&pause=100000&color=00E5FF&center=true&vCenter=true&repeat=false&width=440&lines=FPGA+%7C+VERILOG+%7C+RTL" alt="tagline" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:00E5FF,100:2C5364&height=180&section=header&text=Hi%2C%20I%27m%20Siddh&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=RTL%20%7C%20Verilog%20%7C%20FPGA&descAlignY=58&descSize=20"/>
 
-**Electronics & Communication Engineering Student**
+**Electronics & Communication Engineering Graduate**
 Focused on RTL Design, FPGA Development, and Digital Verification.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddartha-l-75120738a/)
 [![Email](https://img.shields.io/badge/Email-00E5FF?style=for-the-badge&logo=gmail&logoColor=black)](mailto:siddarthalokesh@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/siddarthalokesh)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/siddaaaaarth)
 
 </div>
 
@@ -17,10 +17,11 @@ Focused on RTL Design, FPGA Development, and Digital Verification.
 
 ## About Me
 
-- Building a strong foundation in digital design, starting from gates and moving up through RTL, simulation, and verification.
-- Currently designing and simulating a **Synchronous FIFO in Verilog**, focused on correct pointer logic and full/empty detection.
-- Preparing for the HAL (Hindustan Aeronautics Limited) recruitment CBT, which keeps me grounded in core electronics, digital systems, and control systems fundamentals.
-- Interested in FPGA implementation and RTL verification as the next stages of this learning path — not yet claiming expertise there.
+- ECE graduate (Dayananda Sagar Academy of Technology and Management, 2023–2026) building a strong foundation in digital design — from gates up through RTL, simulation, and verification.
+- Completed the **K-VLSI Design Skilling Program at IIIT Bangalore**, with hands-on RTL design and functional verification in Verilog/SystemVerilog.
+- Shipped **Sync FIFO** and **8-depth Async FIFO** designs in Verilog, simulated and verified end-to-end in Icarus Verilog.
+- Comfortable across the stack: RTL design, embedded systems (Arduino, ESP32), Embedded C, and Python.
+- Actively seeking roles in **RTL design, VLSI, embedded systems, and automotive software** — currently deepening SystemVerilog (interfaces, verification methodology) ahead of an AHB-APB bridge project.
 
 <br>
 
@@ -36,15 +37,4 @@ Focused on RTL Design, FPGA Development, and Digital Verification.
 | **Systems / Domain Knowledge** | *Learning (HAL CBT prep):* `Control Systems` `Instrumentation` `Analog Electronics` `Digital Electronics` |
 
 <br>
-
-
-## Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddartha-l-75120738a/)
-[![Email](https://img.shields.io/badge/Email-00E5FF?style=for-the-badge&logo=gmail&logoColor=black)](mailto:siddarthalokesh@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/siddarthalokesh)
-
-</div>
 
